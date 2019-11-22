@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<Manifest>
+
+	<identifier>RoM-VampiresSunlightFix</identifier>
+	<version>1.0.0.0</version>
+	<dependencies>
+    <li>RimofMadness-Vampires</li>
+  </dependencies>
+	<incompatibleWith>
+		<li/>
+	</incompatibleWith>
+	<loadAfter>
+		<li/>
+	</loadAfter>
+
+</Manifest>

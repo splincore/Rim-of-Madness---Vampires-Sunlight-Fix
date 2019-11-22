@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Rim of Madness - Vampires Sunlight Fix</name>
+	<author>Carny Senpai</author>
+	<supportedVersions>
+		<li>1.0</li>
+	</supportedVersions>
+	<description>Makes vampire pawns not spawn in daylight.
+	</description>
+</ModMetaData>
